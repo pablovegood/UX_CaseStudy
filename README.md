@@ -23,12 +23,7 @@ Miembros:
  * :bust_in_silhouette:  Pablo García Alvarado     :octocat:https://github.com/pablovegood/     
  * :bust_in_silhouette:  Paula García Ipiña     :octocat:https://github.com/paulaipina/
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
 ----- 
-
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
 
 
 # Proceso de Diseño 
@@ -37,7 +32,6 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 
 ### 1.a User Reseach Plan
