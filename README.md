@@ -43,39 +43,49 @@ Miembros:
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
+La investigación de usuarios de un sistema es fundamental en el estudio de la experiencia de usuario. Para ello, se detalla un plan con el motivo de la investigación y la información que debemos recopilar, así como una descripción de las personas que van a formar parte del estudio. Para la investigación, se pueden seguir principalmente dos enfoques: actitudinal (lo que los usuarios dicen) y conductual (cómo los usuarios se comportan).
+En el caso de nuestra práctica, no hemos realizado un estudio de los usuarios siguiendo las metodologías habituales (entrevistas, estudios etnográficos, cuestionarios, etc.) por falta de recursos y tiempo. Pero hemos diseñado a nuestros usuarios pensando en personas que tengan motivaciones o necesidades que puedan encajar con el proyecto sobre el cual queremos realizar la investigación. Es por ello que nos hemos basado en personas reales que son habituales del tipo de local de nuestra investigación. Asimismo, hemos seleccionado dos personas con niveles de experiencia distintos que les pueden llevar a experiencias diversas. Después, hemos llevado a cabo “journey maps”, que nos permiten seguir el viaje de cada usuario en el uso de la interfaz en cuestión para detectar problemas que puedan encontrarse, relacionados con un mal diseño, y que nos permitirán recopilar la información para el análisis de la experiencia de los usuarios y la mejora de una interfaz.
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
+El local sobre el cuál hemos decidido desarrollar nuestro estudio es "Carlota Braun", un local que mezcla grastonomía con ocio y actividades culturas, principalmente actividades musicales. Hemos seleccionado este local porque es un sitio que conocemos y en cuyas actividades hemos participado anteriormente, lo que nos permite realizar nuestro estudio con un mayor conocimiento del lugar. Para el estudio de la competencia, hemos seleccionado "Bamboleo Canalla" y "La Tertulia", ambos locales de Granada
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+El análisis se encuentra en (https://github.com/pablovegood/UX_CaseStudy/P1/AnálisisCompetencia.pdf)
 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
+Lucía Blanco Cano: Lucía es una persona real joven que tiene muchas inquietudes y a la que le gusta hacer muchos planes con sus amigos y amigas. Le gusta la música y los espectáculos de música en directo y de hecho hace danza urbana en sus ratos libres. Además le gusta ayudar a los demás y moverse en contextos interculturales aunque a veces antepone el bienestar de los demás al suyo propio. 
+(https://github.com/pablovegood/UX_CaseStudy/P1/Persona1.pdf)
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Vera Fuentes Fernández: Vera fue elegida como persona ya que presenta el caso de una persona más adulta que tiene interés por actividades culturales diferentes y muy relacionadas con la música y es una persona que ha llegado hace poco tiempo a una ciudad nueva así que está motivada a conocer a gente de intereses similares por lo que este tipo de locales pueden ser muy atractivos para ella. 
+(https://github.com/pablovegood/UX_CaseStudy/P1/Persona2.pdf)
+
 
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
+La experiencia de usuario de Lucía fue elegida ya que es un claro ejemplo de usuario que no tiene experiencia previa con Carlota Braun e interacciona con las diferentes interfaces del local desde la completa ignorancia. Considero que es una experiencia habitual ya que cualquier persona que vaya a ir a Carlota Braun por primera vez podría acabar teniendo una experiencia similar a la de Lucía. 
+(https://github.com/pablovegood/UX_CaseStudy/P1/Persona1.pdf)
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+La experiencia de usuario de Vera fue elegida porque es un ejemplo de usuario con algo de conocimientos previos sobre el local que, a pesar de saber dónde encontrar la información y conocer las interfaces, puede toparse igualmente con dificultades en las interfaces del local debidas a un mal diseño. Las situaciones que vive son bastante comunes en muchos locales de ocio.
+(https://github.com/pablovegood/UX_CaseStudy/P1/Persona2.pdf)
 
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
+El "Usability Review" completo está realizado en: (https://github.com/pablovegood/UX_CaseStudy/P1/Usability-review-template.ods)
+La puntuación total que obtuvo la página tras nuestro análisis es de 75, o buena. La página tiene, por lo general, un diseño claro e intuitivo, aunque con varios aspectos a mejorar. El principal sería la forma de contacto, añadir una opción para volver a la página principal desde cualquier sección de la página yo actualizar la información de la página más a menudo. Como puntos positivos, la página te guía muy fácilmente hacia cualquier tarea que el usuario quiera realizar o sección que quiera consultar y el formulario de reserva está muy bien diseñado, guiando bien al usuario y filtrando posibles errores.
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+### 1.f Conclusión de la práctica 1
+La página web presenta puntos fuertes con respecto a otras alternativas de la competencia como por ejemplo la posibilidad de reservar, poder conseguir algún contacto del local, ver que tipos de celebraciones se llevan a cabo, ver su ubicación en Granada… No obstante, sus actuaciones no están actualizadas en la página web y ese es un aspecto bastante negativo ya que sus actuaciones son uno de los atractivos del local. Además, la pobre traducción de la página es un aspecto bastante importante que podría disuadir a muchos turistas de descubrir este encantador lugar. Es una oportunidad pérdida que siendo también un hostal no permita reservar habitación ni acceder a la página del hotel a través de algún enlace. Por otro lado, en un mundo dónde cada vez hay más concienciación sobre las intolerancias y alergias alimentarias y por las dietas plant-based, que no se puedan consultar estos aspectos ya que no se encuentra el menú ni en Instagram ni en la página web es algo que podría perjudicar al negocio ya que ante la duda mucha gente podría descartarlo. Aunque, en general la página web está encaminada en la dirección correcta. 
+
 
 <br>
 
