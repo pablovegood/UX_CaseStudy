@@ -47,17 +47,17 @@ En el caso de nuestra práctica, no hemos realizado un estudio de los usuarios s
 -----
 El local sobre el cuál hemos decidido desarrollar nuestro estudio es "Carlota Braun", un local que mezcla grastonomía con ocio y actividades culturas, principalmente actividades musicales. Hemos seleccionado este local porque es un sitio que conocemos y en cuyas actividades hemos participado anteriormente, lo que nos permite realizar nuestro estudio con un mayor conocimiento del lugar. Para el estudio de la competencia, hemos seleccionado "Bamboleo Canalla" y "La Tertulia", ambos locales de Granada
 
-El análisis se encuentra en (https://github.com/pablovegood/UX_CaseStudy/P1/AnálisisCompetencia.pdf)
+El análisis se encuentra en https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/AnalisisCompetencia.pdf
 
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 Lucía Blanco Cano: Lucía es una persona real joven que tiene muchas inquietudes y a la que le gusta hacer muchos planes con sus amigos y amigas. Le gusta la música y los espectáculos de música en directo y de hecho hace danza urbana en sus ratos libres. Además le gusta ayudar a los demás y moverse en contextos interculturales aunque a veces antepone el bienestar de los demás al suyo propio. 
-(https://github.com/pablovegood/UX_CaseStudy/P1/Persona1.pdf)
+https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Persona1Imagen.png
 
 Vera Fuentes Fernández: Vera fue elegida como persona ya que presenta el caso de una persona más adulta que tiene interés por actividades culturales diferentes y muy relacionadas con la música y es una persona que ha llegado hace poco tiempo a una ciudad nueva así que está motivada a conocer a gente de intereses similares por lo que este tipo de locales pueden ser muy atractivos para ella. 
-(https://github.com/pablovegood/UX_CaseStudy/P1/Persona2.pdf)
+https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Persona2Imagen.png
 
 
 
@@ -65,16 +65,16 @@ Vera Fuentes Fernández: Vera fue elegida como persona ya que presenta el caso d
 ![Método UX](img/JourneyMap.png) 
 ----
 La experiencia de usuario de Lucía fue elegida ya que es un claro ejemplo de usuario que no tiene experiencia previa con Carlota Braun e interacciona con las diferentes interfaces del local desde la completa ignorancia. Considero que es una experiencia habitual ya que cualquier persona que vaya a ir a Carlota Braun por primera vez podría acabar teniendo una experiencia similar a la de Lucía. 
-(https://github.com/pablovegood/UX_CaseStudy/P1/Persona1.pdf)
+https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Persona1JM.png
 
 La experiencia de usuario de Vera fue elegida porque es un ejemplo de usuario con algo de conocimientos previos sobre el local que, a pesar de saber dónde encontrar la información y conocer las interfaces, puede toparse igualmente con dificultades en las interfaces del local debidas a un mal diseño. Las situaciones que vive son bastante comunes en muchos locales de ocio.
-(https://github.com/pablovegood/UX_CaseStudy/P1/Persona2.pdf)
+https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Persona2JM.png
 
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
-El "Usability Review" completo está realizado en: (https://github.com/pablovegood/UX_CaseStudy/P1/Usability-review-template.ods)
+El "Usability Review" completo está realizado en: https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Usability-review.xls
 La puntuación total que obtuvo la página tras nuestro análisis es de 75, o buena. La página tiene, por lo general, un diseño claro e intuitivo, aunque con varios aspectos a mejorar. El principal sería la forma de contacto, añadir una opción para volver a la página principal desde cualquier sección de la página yo actualizar la información de la página más a menudo. Como puntos positivos, la página te guía muy fácilmente hacia cualquier tarea que el usuario quiera realizar o sección que quiera consultar y el formulario de reserva está muy bien diseñado, guiando bien al usuario y filtrando posibles errores.
 
 ### 1.f Conclusión de la práctica 1
