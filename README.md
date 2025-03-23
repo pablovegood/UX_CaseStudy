@@ -80,7 +80,7 @@ https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Persona2JM.png
 ![Método UX](img/usabilityReview.png) 
 ----
 El "Usability Review" completo está realizado en: https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Usability-review.xls
-La puntuación total que obtuvo la página tras nuestro análisis es de 75, o buena. La página tiene, por lo general, un diseño claro e intuitivo, aunque con varios aspectos a mejorar. El principal sería la forma de contacto, añadir una opción para volver a la página principal desde cualquier sección de la página yo actualizar la información de la página más a menudo. Como puntos positivos, la página te guía muy fácilmente hacia cualquier tarea que el usuario quiera realizar o sección que quiera consultar y el formulario de reserva está muy bien diseñado, guiando bien al usuario y filtrando posibles errores.
+La puntuación total que obtuvo la página tras nuestro análisis es de 75, o buena. La página tiene, por lo general, un diseño claro e intuitivo, aunque con varios aspectos a mejorar. El principal sería la forma de contacto, añadir una opción para volver a la página principal desde cualquier sección de la página y actualizar la información de la página más a menudo. Como puntos positivos, la página te guía muy fácilmente hacia cualquier tarea que el usuario quiera realizar o sección que quiera consultar y el formulario de reserva está muy bien diseñado, guiando bien al usuario y filtrando posibles errores.
 
 
 <br>
