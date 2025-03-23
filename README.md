@@ -54,12 +54,12 @@ El análisis se encuentra en https://github.com/pablovegood/UX_CaseStudy/blob/ma
 ![Método UX](img/Persona.png) 
 -----
 Lucía Blanco Cano: Lucía es una persona real joven que tiene muchas inquietudes y a la que le gusta hacer muchos planes con sus amigos y amigas. Le gusta la música y los espectáculos de música en directo y de hecho hace danza urbana en sus ratos libres. Además le gusta ayudar a los demás y moverse en contextos interculturales aunque a veces antepone el bienestar de los demás al suyo propio. 
-![Método UX]((img/Persona1Imagen.png) 
+![Método UX](img/Persona1Imagen.png) 
 https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Persona1Imagen.png
 
 
 Vera Fuentes Fernández: Vera fue elegida como persona ya que presenta el caso de una persona más adulta que tiene interés por actividades culturales diferentes y muy relacionadas con la música y es una persona que ha llegado hace poco tiempo a una ciudad nueva así que está motivada a conocer a gente de intereses similares por lo que este tipo de locales pueden ser muy atractivos para ella. 
-![Método UX]((img/Persona2Imagen.png) 
+![Método UX](img/Persona2Imagen.png) 
 https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Persona2Imagen.png
 
 
@@ -68,11 +68,11 @@ https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Persona2Imagen.png
 ![Método UX](img/JourneyMap.png) 
 ----
 La experiencia de usuario de Lucía fue elegida ya que es un claro ejemplo de usuario que no tiene experiencia previa con Carlota Braun e interacciona con las diferentes interfaces del local desde la completa ignorancia. Considero que es una experiencia habitual ya que cualquier persona que vaya a ir a Carlota Braun por primera vez podría acabar teniendo una experiencia similar a la de Lucía. 
-![Método UX]((img/Persona1JM.png) 
+![Método UX](img/Persona1JM.png) 
 https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Persona1JM.png
 
 La experiencia de usuario de Vera fue elegida porque es un ejemplo de usuario con algo de conocimientos previos sobre el local que, a pesar de saber dónde encontrar la información y conocer las interfaces, puede toparse igualmente con dificultades en las interfaces del local debidas a un mal diseño. Las situaciones que vive son bastante comunes en muchos locales de ocio.
-![Método UX]((img/Persona2JM.png) 
+![Método UX](img/Persona2JM.png) 
 https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Persona2JM.png
 
 
