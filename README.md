@@ -71,7 +71,7 @@ La experiencia de usuario de Lucía fue elegida ya que es un claro ejemplo de us
 ![Método UX](img/Persona1JM.png) 
 https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Persona1JM.png
 
-La experiencia de usuario de Vera fue elegida porque es un ejemplo de usuario con algo de conocimientos previos sobre el local que, a pesar de saber dónde encontrar la información y conocer las interfaces, puede toparse igualmente con dificultades en las interfaces del local debidas a un mal diseño. Las situaciones que vive son bastante comunes en muchos locales de ocio.
+La experiencia de usuario de Vera fue elegida porque es un ejemplo de usuario con algo de conocimientos previos sobre el local que, a pesar de saber dónde encontrar cierta información y conocer las interfaces, puede toparse igualmente con dificultades, como la falta de actualización de la programación musical en la página o la falta de una opción para poder ver la carta, todas debido al descuido de la página web. También mejorar algunos aspectos que mejoren la experiencia de usuario una vez en el local como, si vas a poner el menú en qr, asegurarte de tener una buena cobertura en el interior del local.
 ![Método UX](img/Persona2JM.png) 
 https://github.com/pablovegood/UX_CaseStudy/blob/master/P1/Persona2JM.png
 
