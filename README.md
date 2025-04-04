@@ -9,11 +9,11 @@ Actualizado: 21/03/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+El Rincón de Gurb
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+El Rincón de Gurb es un local alternativo y underground en la ciudad de Granada donde por la mañana se llevan a cabo diferentes talleres de todo tipo, como de escritura creativa, para aprender a tocar instrumentos, aprender a bailar, etc y por la tarde-noche es un local donde la gente puede pedir cervezas artesanales elaboradas en la ciudad de Granada con ingredientes locales y donde se celebran Jam Sessions, conciertos, recitales de poesía, actuaciones de danza, etc. En dicho local hay un personal encantador  siempre dispuesto a ayudar y el local es un entorno seguro y agradable.
 
 Logotipo: 
 
