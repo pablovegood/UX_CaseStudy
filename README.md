@@ -87,7 +87,6 @@ La puntuación total que obtuvo la página tras nuestro análisis es de 75, o bu
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
@@ -124,6 +123,9 @@ La puntuación total que obtuvo la página tras nuestro análisis es de 75, o bu
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
+
+![gloomap_37abe4c1](https://github.com/user-attachments/assets/058cd80b-c3f4-42ef-87b0-065ca5335e06)
+
 
 >>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
