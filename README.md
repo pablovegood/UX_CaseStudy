@@ -131,15 +131,16 @@ La puntuación total que obtuvo la página tras nuestro análisis es de 75, o bu
 
 Término | Significado     
 | ------------- | -------
-Eventos | Botón que lleva a la página de Eventos de la página web
-Talleres | Botón que lleva a la página de Talleres de la página web
-Menú | Botón que lleva a la página del Menú de la página web
-FAQ | Botón que lleva a la página de preguntas frecuentes de la página web
-Sobre Nosotros | Botón que lleva a la página de About Us de la página web
-Reservar Mesa | Botón que lleva a la página de Reservar Mesa de la página web
-Reservar un puesto | Botón que lleva a la página de Reservar un Puesto de la página web para el taller junto al que se encontraba el botón
-Nombre | Campo de texto donde el usuario debe escribir su nombre
-Apellidos | Campo de texto donde el usuario debe escribir su(s) apellido(s)
+Eventos | botón que lleva a la página de Eventos de la página web
+Talleres | botón que lleva a la página de Talleres de la página web
+Menú | botón que lleva a la página del Menú de la página web
+FAQ | botón que lleva a la página de preguntas frecuentes de la página web
+Sobre Nosotros | botón que lleva a la página de About Us de la página web
+Reservar Mesa | botón que lleva a la página de Reservar Mesa de la página web
+Reservar un puesto | botón que lleva a la página de Reservar un Puesto de la página web para el taller junto al que se encontraba el botón
+Nombre | campo de texto donde el usuario debe escribir su nombre
+Apellidos | campo de texto donde el usuario debe escribir su(s) apellido(s)
+Correo electrónico | campo de texto para que el usuario introduzca su correo electrónico
 
 
 
