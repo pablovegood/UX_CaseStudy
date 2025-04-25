@@ -17,7 +17,7 @@
 
 
 ### ARQUITECTURA DE INFORMACIÓN
-
+https://github.com/pablovegood/UX_CaseStudy/tree/master#2c-ia-sitemap--labelling
 * Sitemap 
 * Labelling 
 
