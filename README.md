@@ -99,10 +99,10 @@ El principal problema es una falta de atención a ciertos aspectos de la página
 Es por ello que nuestra propuesta de valor es un rediseño del local, ya que parte de una buena base (página fácil de encontrar, buen diseño de reserva de mesa, buen diseño general de la página principal), mejorando aquellas partes que hemos considerado poco cuidadas y añadiendo, como propuesta nuestra a partir de las necesidades que hemos determinado del estudio de las personas usuarias, la organización de talleres culturales, para fomentar la creación de un lugar de encuentro donde desarrollar la creatividad en compañía.
 Estas ideas, como hemos mencionado, parten también de los mapas de empatía creados a partir de las personas que ideamos en la práctica anterior como usuarias de nuestro caso de estudio, y sus mapas de experiencia.
 
-<br>Mapa de empatía de Lucía:
+Mapa de empatía de Lucía:
 ![Mapa de empatía de Lucía:](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/EmpathyMapping_Lucia.png)
 
-<br>Mapa de empatía de Vera:
+Mapa de empatía de Vera:
 ![Mapa de empatía de Vera:](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/EmpathyMapping_Vera.png)
 
 
