@@ -91,17 +91,12 @@ La puntuación total que obtuvo la página tras nuestro análisis es de 75, o bu
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
+En el siguiente diagrama hemos reunido los aspectos más destacados que sacamos como conclusión de la práctica anterior. Estos aspectos consisten en aquello que funciona adecuadamente en nuestro caso de estudio, el local Carlota Braun, las carencias, que son aquellos aspectos que deben cambiarse o mejorarse; preguntas que surgen en los usuarios al usar su interfaz de usuario o ideas que hemos podido reunir para una propuesta de proyecto mejorado.
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
+![Nuestra malla receptora de información: ](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/FeedbackGrid.png) 
   
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
+El principal problema es una falta de atención a ciertos aspectos de la página que pueden parecer detalles pero determinan la conexión de los potenciales usuarios con el local, como el no subir la programación a la página de forma actualizada, no informando correctamente a los usuarios de los eventos del local, no tener enlaces a las redes sociales que funcionen, o no informando correctamente de todas las opciones gastronómicas del local (que consideramos relevante siendo un local que destaca principalmente como restaurante, y teniendo en cuenta la amplia variedad de dietas de hoy en día).
+Es por ello que nuestra propuesta de valor es un rediseño del local, ya que parte de una buena base (página fácil de encontrar, buen diseño de reserva de mesa, buen diseño general de la página principal), mejorando aquellas partes que hemos considerado poco cuidadas y añadiendo, como propuesta nuestra a partir de las necesidades que hemos determinado del estudio de las personas usuarias, la organización de talleres culturales, para fomentar la creación de un lugar de encuentro donde desarrollar la creatividad en compañía.
 
 
 ### 2.b ScopeCanvas
