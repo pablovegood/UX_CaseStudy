@@ -1,14 +1,14 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información: [FeedbackGrid.png](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/FeedbackGrid.png)
-* Mapa de empatía:
-    - EmpathyMapping_Lucia.png: https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/EmpathyMapping_Lucia.png
-    - EmpathyMapping_Vera.png: https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/EmpathyMapping_Vera.png
+* [Malla receptora de información](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/FeedbackGrid.png)
+* Mapas de empatía:
+    - [Mapa de empatía de Lucía](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/EmpathyMapping_Lucia.png)
+    - [Mapa de empatía de Vera](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/EmpathyMapping_Vera.png)
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas: ScopeCanvas.png
+* [ScopeCanvas](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/ScopeCanvas.png)
 
 
 ### TASK ANALYSIS
@@ -16,12 +16,11 @@
 
 
 ### ARQUITECTURA DE INFORMACIÓN
-* Sitemap
-  https://github.com/pablovegood/UX_CaseStudy/tree/master#2c-ia-sitemap--labelling
-* Labelling 
+* [Sitemap y Labelling](https://github.com/pablovegood/UX_CaseStudy/tree/master#2c-ia-sitemap--labelling)
 
 
 ### Prototipo Lo-FI Wireframe 
+* [Prototipos Lo-Fi Wireframes](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/WireFrames.png)
 
 
 ### Valoración de la Práctica 2
