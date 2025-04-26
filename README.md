@@ -97,14 +97,19 @@ En el siguiente diagrama hemos reunido los aspectos más destacados que sacamos 
   
 El principal problema es una falta de atención a ciertos aspectos de la página que pueden parecer detalles pero determinan la conexión de los potenciales usuarios con el local, como el no subir la programación a la página de forma actualizada, no informando correctamente a los usuarios de los eventos del local, no tener enlaces a las redes sociales que funcionen, o no informando correctamente de todas las opciones gastronómicas del local (que consideramos relevante siendo un local que destaca principalmente como restaurante, y teniendo en cuenta la amplia variedad de dietas de hoy en día).
 Es por ello que nuestra propuesta de valor es un rediseño del local, ya que parte de una buena base (página fácil de encontrar, buen diseño de reserva de mesa, buen diseño general de la página principal), mejorando aquellas partes que hemos considerado poco cuidadas y añadiendo, como propuesta nuestra a partir de las necesidades que hemos determinado del estudio de las personas usuarias, la organización de talleres culturales, para fomentar la creación de un lugar de encuentro donde desarrollar la creatividad en compañía.
+Estas ideas, como hemos mencionado, parten también de los mapas de empatía creados a partir de las personas que ideamos en la práctica anterior como usuarias de nuestro caso de estudio, y sus mapas de experiencia.
+
+![Mapa de empatía de Lucía:](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/EmpathyMapping_Lucia.png)
+
+![Mapa de empatía de Vera:](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/EmpathyMapping_Vera.png)
 
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
+Para nuestro proyecto, que hemos llamado "El rincón de Gurb" (inspirados por ese deseo de nuestras personas de explorar el mundo, descubrir nuevos hobbies y conocer personas), hemos desarrollado la siguiente propuesta de valor:
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
+![El rincón de Gurb](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/ScopeCanvas.png)
 
 
 
@@ -118,11 +123,9 @@ Es por ello que nuestra propuesta de valor es un rediseño del local, ya que par
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
 ----
+La arquitectura de la información que hemos definido, así como los términos para el diálogo con el usuario, son los siguientes: 
 
-![gloomap_37abe4c1](https://github.com/user-attachments/assets/058cd80b-c3f4-42ef-87b0-065ca5335e06)
-
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+![Mapa del sitio: ](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/Sitemap.png)
 
 Término | Significado     
 | ------------- | -------
@@ -143,8 +146,8 @@ Correo electrónico | campo de texto para que el usuario introduzca su correo el
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
-
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+>>> El diseño del layout que hemos planteado para nuestra interfaz, usando figma como herramienta para su creación (concretamente la plantilla presente en DIU_Toolkit_Framework, en la página Wireframes), es el siguiente:
+>>> ![Wireframes: ](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/WireFrames.png)
 
 <br>
 
