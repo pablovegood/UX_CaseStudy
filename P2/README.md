@@ -16,7 +16,7 @@
 
 
 ### ARQUITECTURA DE INFORMACIÓN
-* [Sitemap y Labelling](https://github.com/pablovegood/UX_CaseStudy/tree/master#2c-ia-sitemap--labelling)
+* [Sitemap y Labelling](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/Sitemap.png)
 
 
 ### Prototipo Lo-FI Wireframe 
