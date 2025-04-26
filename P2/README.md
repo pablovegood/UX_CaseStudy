@@ -1,19 +1,18 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+* Malla receptora de información: [FeedbackGrid.png](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/FeedbackGrid.png)
+* Mapa de empatía:
+    - EmpathyMapping_Lucia.png: https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/EmpathyMapping_Lucia.png
+    - EmpathyMapping_Vera.png: https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/EmpathyMapping_Vera.png
 
 
 ### PROPUESTA DE VALOR
-* ScopeCanvas
+* ScopeCanvas: ScopeCanvas.png
 
 
 ### TASK ANALYSIS
-
-* User Task Matrix 
-* User/Task flow
+* Task flow: Taskflow.png
 
 
 ### ARQUITECTURA DE INFORMACIÓN
