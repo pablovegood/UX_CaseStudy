@@ -116,6 +116,12 @@ Para nuestro proyecto, que hemos llamado "El rincón de Gurb" (inspirados por es
 
 
 ### 2.b User Flow (task) analysis 
+![Método UX](img/ReservaMesa.png)
+-----
+
+![Método UX](img/ReservaTaller.png)
+-----
+
 ![Método UX](img/Sitemap.png) 
 -----
 
