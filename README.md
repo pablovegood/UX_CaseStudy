@@ -122,11 +122,10 @@ Para nuestro proyecto, que hemos llamado "El rincón de Gurb" (inspirados por es
 ![Método UX](img/ReservaTaller.png)
 -----
 
+Hemos definido el Flow Task de Reservar Mesa y Taller en la página web del local de "El rincón de Gurb" para ello hemos considerado que sucede si por ejemplo no hubiese disponibilidad para el taller o para una mesa con unas características concretas (fecha, número de comensales, etc).
+
 ![Método UX](img/Sitemap.png) 
 -----
-
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
-
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
