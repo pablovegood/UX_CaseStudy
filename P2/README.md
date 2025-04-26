@@ -11,7 +11,7 @@
 * [ScopeCanvas](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/ScopeCanvas.png)
 
 
-### TASK ANALYSIS
+### [TASK ANALYSIS](https://github.com/pablovegood/UX_CaseStudy/blob/master/README.md#2b-user-flow-task-analysis)
 * [Task Flow Reserva Taller](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/ReservaTaller.png)
 * [Task Flow Reserva Mesa](https://github.com/pablovegood/UX_CaseStudy/blob/master/P2/ReservaMesa.png)
 
