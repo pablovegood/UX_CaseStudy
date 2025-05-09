@@ -17,7 +17,8 @@ El Rincón de Gurb es un local alternativo y underground en la ciudad de Granada
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![Logo](https://github.com/user-attachments/assets/7b2a40bc-0008-4ff9-8077-48ea54f75a15)
+
 
 Miembros:
  * :bust_in_silhouette:  Pablo García Alvarado     :octocat:https://github.com/pablovegood/     
