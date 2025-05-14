@@ -178,6 +178,7 @@ Correo electrónico | campo de texto para que el usuario introduzca su correo el
 ----
 
 Para la landing page hemos diseñado una stories de Instagram donde promocionamos la apertura del local "El rincón de Gurb" utilizando como reclamo una oferta de cerveza gratis, la stories utiliza la paleta de colores y las fuentes que ha sido utilizadas en el moodboard. por otro lado tenemos arriba el logo del local y elementos decorativos que transmitan las vibras del local (vino, notas musicales). Abajo después del anuncio de la cerveza gratis tenemos un botón que es un enlace a la página web para que los seguidores de Instagram puedan acceder a la página web e investiguen un poco sobre el sitio.
+
 ![Blue Green Bold and Flashy Call to Action Instagram Story](https://github.com/user-attachments/assets/4ae8c935-54f2-4f3b-9363-bff921b04138)
 
 
