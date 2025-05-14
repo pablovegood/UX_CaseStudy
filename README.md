@@ -168,8 +168,9 @@ Correo electrónico | campo de texto para que el usuario introduzca su correo el
 ![Método UX](img/moodboard.png)
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
+![EL RINCÓN DE GURB](https://github.com/user-attachments/assets/0715927d-a963-4573-b40a-79e919054fb9)
+
+>>> Todos los recursos estarán subidos a la carpeta P3/
 >>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 
