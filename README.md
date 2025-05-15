@@ -196,14 +196,24 @@ Para la landing page hemos diseñado una stories de Instagram donde promocionamo
 ----
 
 El mockup de nuestra propuesta se puede ver en el siguiente enlace: https://www.figma.com/design/FnFwRiGTHMyu7Dlk4lir3I/Soter?node-id=33-305&p=f&t=fhKKqu0ZEB9X8VUT-0
+<!-- Fila 1 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/21ef0633-b651-4f89-869c-7510c08834f5" width="250"/>
+  <img src="https://github.com/user-attachments/assets/cfe64a9a-125e-4fba-bf97-3e805ff25263" width="250"/>
+  <img src="https://github.com/user-attachments/assets/0508f1c1-ef4c-4a46-b7e6-ca5a6c2ac1fa" width="250"/>
+</p>
 
-![Talleres](https://github.com/user-attachments/assets/0508f1c1-ef4c-4a46-b7e6-ca5a6c2ac1fa)
-![Reserva Mesa](https://github.com/user-attachments/assets/030af415-418f-49b3-b861-52fbb79e2a72)
-![Menú Principal](https://github.com/user-attachments/assets/21ef0633-b651-4f89-869c-7510c08834f5)
-![FAQ-1](https://github.com/user-attachments/assets/538feefc-4ed6-44f1-bfab-0507d845403c)
-![FAQ](https://github.com/user-attachments/assets/455db108-b70c-4595-90cf-dded33ffbdd3)
-![Eventos](https://github.com/user-attachments/assets/cfe64a9a-125e-4fba-bf97-3e805ff25263)
-![Carta](https://github.com/user-attachments/assets/ef983233-3828-426e-a762-c6480390fa17)
+<!-- Fila 2 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef983233-3828-426e-a762-c6480390fa17" width="250"/>
+  <img src="https://github.com/user-attachments/assets/030af415-418f-49b3-b861-52fbb79e2a72" width="250"/>
+  <img src="https://github.com/user-attachments/assets/455db108-b70c-4595-90cf-dded33ffbdd3" width="250"/>
+</p>
+
+<!-- Fila 3 -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/538feefc-4ed6-44f1-bfab-0507d845403c" width="250"/>
+</p>
 
 
 >>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
