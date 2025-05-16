@@ -9,7 +9,7 @@
 
 El moodboard recopila la estética visual del local, incluyendo paleta de colores, logotipo y referencias de estilo gráfico para la futura interfaz. Hemos usado las fuentes `Playfair Display` para los títulos y `Montserrat` para los textos secundarios.
 
-📎 [Ver moodboard](moodboard.png)
+[Ver moodboard](moodboard.png)
 
 ---
 
@@ -17,7 +17,7 @@ El moodboard recopila la estética visual del local, incluyendo paleta de colore
 
 Primera toma de contacto del usuario con el local. Tiene el nombre del local, elementos decorativos relacionados, un botón de acción para acceder a la página web, el logo del local.
 
-📎 [Ver Landing Page](landingPage.png)
+[Ver Landing Page](landingPage.png)
 
 ---
 
@@ -25,15 +25,15 @@ Primera toma de contacto del usuario con el local. Tiene el nombre del local, el
 
 Se han diseñado múltiples pantallas en alta fidelidad (Hi-Fi) con Figma, representando la experiencia de usuario de la app/web del Rincón de Gurb. Se incluyen vistas del menú principal, carta, eventos, talleres, FAQs y del proceso de reserva de mesa.
 
-📎 [Menú Principal](%20Menú%20Principal.png)  
-📎 [Carta](Carta.png)  
-📎 [Eventos](Eventos.png)  
-📎 [Talleres](Talleres.png)  
-📎 [FAQ 1](FAQ-1.png) – [FAQ 2](FAQ.png)  
-📎 [Reserva Mesa](Reserva%20Mesa.png)  
-📎 [Reserva Mesa - Parte 1](Reserva%20Mesa-1.png)  
-📎 [Reserva Mesa - Parte 2](Reserva%20Mesa-2.png)  
-📎 [Reserva Mesa - Parte 3](Reserva%20Mesa-3.png)
+[Menú Principal](%20Menú%20Principal.png)  
+[Carta](Carta.png)  
+[Eventos](Eventos.png)  
+[Talleres](Talleres.png)  
+[FAQ 1](FAQ-1.png) – [FAQ 2](FAQ.png)  
+[Reserva Mesa](Reserva%20Mesa.png)  
+[Reserva Mesa - Parte 1](Reserva%20Mesa-1.png)  
+[Reserva Mesa - Parte 2](Reserva%20Mesa-2.png)  
+[Reserva Mesa - Parte 3](Reserva%20Mesa-3.png)
 
 ---
 
@@ -41,7 +41,7 @@ Se han diseñado múltiples pantallas en alta fidelidad (Hi-Fi) con Figma, repre
 
 El caso de estudio completo está publicado en GitHub Pages. Resume el proceso seguido con Design Thinking, desde la investigación de usuarios hasta la evaluación de la interfaz final.
 
-🔗 [Ver publicación online](https://pablovegood.github.io/UX_CaseStudy/#/)
+[Ver publicación online](https://pablovegood.github.io/UX_CaseStudy/#/)
 
 ---
 
