@@ -185,8 +185,13 @@ Para la landing page hemos diseñado una stories de Instagram donde promocionamo
 ![Método UX](img/guidelines.png) 
 ----
 
-Vamos a utilizar una bottom navigation bar ya que tenemos 5 menús y según las guidelines lo mejor es utilizar de 3-5 iconos (en nuestro caso 5)
+Vamos a utilizar una bottom navigation bar ya que tenemos 5 menús y según las guidelines lo mejor es utilizar de 3-5 iconos (en nuestro caso 5). También, para la página de reserva de nuestra aplicación móvil, hemos hecho uso de un calendario y un reloj para la hora. Por otro lado todos los menús han tenido una cabecera que incluían el logo, el nombre del local y un icono de Instagram con un enlace directo a la red social.
+
 ![BottomNavigationBar](https://github.com/user-attachments/assets/f1a6c40e-6fa4-4914-a1e8-29ae387ee765)
+![image-removebg-preview (6)](https://github.com/user-attachments/assets/10d8fa52-f06d-4474-ae45-8c0c5bb958ff)
+![image-removebg-preview (7)](https://github.com/user-attachments/assets/d0502078-e498-400e-8f09-b9d674756703)
+![image](https://github.com/user-attachments/assets/c657a0ae-2ebb-4346-9661-612ebd701c50)
+
 
 >>> Estudio de Guidelines y explicación de los Patrones IU a usar 
 >>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
@@ -196,9 +201,7 @@ Vamos a utilizar una bottom navigation bar ya que tenemos 5 menús y según las 
 ![Método UX](img/mockup.png) 
 ----
 
-El mockup de nuestra propuesta se puede ver en el siguiente enlace: [Figma Mockup Hi-Fi](https://www.figma.com/design/qEAvO4wfxdnhAdQPc58HrS/Soter--Copy-?node-id=33-305&p=f&t=2OAWFslzGZ8tiGpf-0)
-
-
+El mockup de nuestra propuesta se puede ver en el siguiente enlace: [Figma Mockup Hi-Fi](https://www.figma.com/design/qEAvO4wfxdnhAdQPc58HrS/Soter--Copy-?node-id=33-305&p=f&t=2OAWFslzGZ8tiGpf-0) Se puede ver como interactuaría el usuario con la interfaz.
 
 <!-- Grupo 1 -->
 <p align="center">
@@ -221,10 +224,6 @@ El mockup de nuestra propuesta se puede ver en el siguiente enlace: [Figma Mocku
   <img src="https://github.com/user-attachments/assets/5bb86a3b-d3cf-415d-9536-a202d1b8d0e4" width="30%">
   <img src="https://github.com/user-attachments/assets/6fdd4c69-ada6-444a-aef4-01682c341688" width="30%">
 </p>
-
-
-
-> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
 
 ### 3.e ¿My UX-Case Study?
