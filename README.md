@@ -185,16 +185,12 @@ Para la landing page hemos diseñado una stories de Instagram donde promocionamo
 ![Método UX](img/guidelines.png) 
 ----
 
-Vamos a utilizar una bottom navigation bar ya que tenemos 5 menús y según las guidelines lo mejor es utilizar de 3-5 iconos (en nuestro caso 5). También, para la página de reserva de nuestra aplicación móvil, hemos hecho uso de un calendario y un reloj para la hora. Por otro lado todos los menús han tenido una cabecera que incluían el logo, el nombre del local y un icono de Instagram con un enlace directo a la red social.
+Vamos a utilizar una bottom navigation bar ya que tenemos 5 menús y según las guidelines lo mejor es utilizar de 3-5 iconos (en nuestro caso 5). También, para la página de reserva de nuestra aplicación móvil, hemos hecho uso de un calendario y un reloj para la hora. Por otro lado todos los menús han tenido una cabecera que incluían el logo, el nombre del local y un icono de Instagram con un enlace directo a la red social. Para los títulos hemos usado "Playfair Display" como fuente y para los subtíttulos "Montserrat".
 
+![image](https://github.com/user-attachments/assets/c657a0ae-2ebb-4346-9661-612ebd701c50)
 ![BottomNavigationBar](https://github.com/user-attachments/assets/f1a6c40e-6fa4-4914-a1e8-29ae387ee765)
 ![image-removebg-preview (6)](https://github.com/user-attachments/assets/10d8fa52-f06d-4474-ae45-8c0c5bb958ff)
 ![image-removebg-preview (7)](https://github.com/user-attachments/assets/d0502078-e498-400e-8f09-b9d674756703)
-![image](https://github.com/user-attachments/assets/c657a0ae-2ebb-4346-9661-612ebd701c50)
-
-
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
 
 ### 3.d Mockup
