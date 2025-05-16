@@ -187,6 +187,9 @@ Para la landing page hemos diseñado una stories de Instagram donde promocionamo
 ![Método UX](img/guidelines.png) 
 ----
 
+Vamos a utilizar una bottom navigation bar ya que tenemos 5 menús y según las guidelines lo mejor es utilizar de 3-5 iconos (en nuestro caso 5)
+![BottomNavigationBar](https://github.com/user-attachments/assets/f1a6c40e-6fa4-4914-a1e8-29ae387ee765)
+
 >>> Estudio de Guidelines y explicación de los Patrones IU a usar 
 >>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
 
@@ -196,27 +199,34 @@ Para la landing page hemos diseñado una stories de Instagram donde promocionamo
 ----
 
 El mockup de nuestra propuesta se puede ver en el siguiente enlace: https://www.figma.com/design/FnFwRiGTHMyu7Dlk4lir3I/Soter?node-id=33-305&p=f&t=fhKKqu0ZEB9X8VUT-0
-<!-- Fila 1 -->
+
+
+
+<!-- Grupo 1 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/21ef0633-b651-4f89-869c-7510c08834f5" width="250"/>
-  <img src="https://github.com/user-attachments/assets/cfe64a9a-125e-4fba-bf97-3e805ff25263" width="250"/>
-  <img src="https://github.com/user-attachments/assets/0508f1c1-ef4c-4a46-b7e6-ca5a6c2ac1fa" width="250"/>
+  <img src="https://github.com/user-attachments/assets/b62d0383-e839-4cda-ae7f-49c16e7161bc" width="22%">
+  <img src="https://github.com/user-attachments/assets/8486f111-ea3d-4d3f-945f-734eecdbaeb2" width="22%">
+  <img src="https://github.com/user-attachments/assets/16a7dbed-affb-4ead-bbe0-73295f47ab1f" width="22%">
+  <img src="https://github.com/user-attachments/assets/aade1da9-771c-473d-aaf6-e1a5214c4173" width="22%">
 </p>
 
-<!-- Fila 2 -->
+<!-- Grupo 2 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ef983233-3828-426e-a762-c6480390fa17" width="250"/>
-  <img src="https://github.com/user-attachments/assets/030af415-418f-49b3-b861-52fbb79e2a72" width="250"/>
-  <img src="https://github.com/user-attachments/assets/455db108-b70c-4595-90cf-dded33ffbdd3" width="250"/>
+  <img src="https://github.com/user-attachments/assets/1f0ac275-af42-4352-8ac6-111987fbe3f9" width="22%">
+  <img src="https://github.com/user-attachments/assets/2dd405bd-6a24-48b5-a40a-025f5e111411" width="22%">
+  <img src="https://github.com/user-attachments/assets/a277dbea-c9f6-48ba-990a-8bdcc526b2bf" width="22%">
+  <img src="https://github.com/user-attachments/assets/e31cf3ab-ea09-4c44-b285-6044c7a7953d" width="22%">
 </p>
 
-<!-- Fila 3 -->
+<!-- Grupo 3 -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/538feefc-4ed6-44f1-bfab-0507d845403c" width="250"/>
+  <img src="https://github.com/user-attachments/assets/5bb86a3b-d3cf-415d-9536-a202d1b8d0e4" width="30%">
+  <img src="https://github.com/user-attachments/assets/6fdd4c69-ada6-444a-aef4-01682c341688" width="30%">
 </p>
 
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+
+> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
 
 
 ### 3.e ¿My UX-Case Study?
