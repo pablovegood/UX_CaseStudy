@@ -161,17 +161,15 @@ Correo electrónico | campo de texto para que el usuario introduzca su correo el
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
 -----
 
 ![EL RINCÓN DE GURB](https://github.com/user-attachments/assets/0715927d-a963-4573-b40a-79e919054fb9)
 
->>> Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+Para la paleta de colores hemos utilizado la siguiente página web https://coolors.co/ y hemos ido bloqueando los colores a medida que nos iban gustando hasta tener los 5 que veis en el moodboard. Como aesthetic queríamos darle las vibras de lugar alternativo donde poder aprender y ver música en directo mientras se disfruta de buenas cervezas. Por otro lado, como fuentes hemos usado 2, una para los títulos y otra para los subtitulos, siendo estas Playfair Display y Montserrat respectivamente. Para el logo hemos usado https://looka.com/logo-maker/ y básicamente en el logo sale un extraterretsre (Gurb) asomado a la ventana de su nave espacial ya que quiere este descubrir el mundo (a través de los talleres en los que aprenderá diversas cosas).
+
+El moodboard no se puede usar como cabecera de Instagram, pero si que puede servir de inspiración para desarrollar dicha cabecera.
 
 
 ### 3.b Landing Page
