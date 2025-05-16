@@ -196,7 +196,7 @@ Vamos a utilizar una bottom navigation bar ya que tenemos 5 menús y según las 
 ![Método UX](img/mockup.png) 
 ----
 
-El mockup de nuestra propuesta se puede ver en el siguiente enlace: https://www.figma.com/design/FnFwRiGTHMyu7Dlk4lir3I/Soter?node-id=33-305&p=f&t=fhKKqu0ZEB9X8VUT-0
+El mockup de nuestra propuesta se puede ver en el siguiente enlace: [Figma Mockup Hi-Fi](https://www.figma.com/design/qEAvO4wfxdnhAdQPc58HrS/Soter--Copy-?node-id=33-305&p=f&t=2OAWFslzGZ8tiGpf-0)
 
 
 
