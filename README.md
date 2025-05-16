@@ -1,5 +1,5 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario (Tema: Comercio Sostenible 2024/2025 ) 
 
 [Guiones de prácticas](GuionesPracticas/)
 
