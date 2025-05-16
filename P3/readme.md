@@ -29,7 +29,7 @@ Se han diseñado múltiples pantallas en alta fidelidad (Hi-Fi) con Figma, repre
 [Carta](Carta.png)  
 [Eventos](Eventos.png)  
 [Talleres](Talleres.png)  
-[FAQ 1](FAQ-1.png) – [FAQ 2](FAQ.png)  
+[FAQ 1](FAQ.png) – [FAQ 2](FAQ-1.png)  
 [Reserva Mesa](Reserva%20Mesa.png)  
 [Reserva Mesa - Parte 1](Reserva%20Mesa-1.png)  
 [Reserva Mesa - Parte 2](Reserva%20Mesa-2.png)  
