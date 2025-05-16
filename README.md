@@ -226,9 +226,7 @@ El mockup de nuestra propuesta se puede ver en el siguiente enlace: [Figma Mocku
 ![Método UX](img/caseStudy.png) 
 -----
 
->>> Publicar my Case Study en Github... Es el momento de dejar este documento para que sea evaluado y calificado como parte de la práctica
->>> Documente bien la cabecera y asegurese que ha resumido los pasos realizados para el diseño de su producto
-
+Básicamente, hemos hecho uso de Design Thinking a través del local de Carlota Braun para proponer una alternativa mejor y más innovadora llamada El Rincón de Gurb donde además de página web tiene aplicación móvil. Hemos utilizado Figma y Canva mayoritariamente. Además hemos publicado el Case Study en la página web que estás viendo a continuación.
 <br>
 
 ## Paso 4. Pruebas de Evaluación 
