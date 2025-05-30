@@ -235,11 +235,10 @@ Básicamente, hemos hecho uso de Design Thinking a través del local de Carlota 
 ![Método UX](img/usability-testing.png)
 -----
 
-EcoNecta es un proyecto enfocado en conectar a las personas con la naturaleza, lo ecológico y sostenible ya que permite a personas interesadas por el comercio ecológico compartir sus recetas y experiencias con otras personas con intereses similares.
+El proyecto B de nuestro A/B Testing es "EcoNecta", un proyecto enfocado en conectar a las personas con la naturaleza, lo ecológico y sostenible, que permite las personas interesadas participar de un comercio ecológico, y compartir sus recetas y experiencias con otras personas con intereses similares.
+Repositorio de GitHub: ![Repositorio EcoNecta](https://github.com/javiruizz/UX_CaseStudy)
 
-A coninuación el enlace al repositorio de GitHub: ![Repositorio EcoNecta](https://github.com/javiruizz/UX_CaseStudy)
-
-A continuación, mostramos una tabla con las personas seleccionadas para este estudio:
+Las personas seleccionadas para este estudio son las siguientes:
 
 | Nombre del Usuario | Género/Edad | Ocupación  | Experiencia TIC | Personalidad                          | Plataforma       | Caso |
 |--------------------|-------------|------------|------------------|----------------------------------------|------------------|------|
@@ -248,14 +247,11 @@ A continuación, mostramos una tabla con las personas seleccionadas para este es
 | Iván               | hombre/23   | estudiante | avanzada         | extrovertido                           | Aplicación Móvil | B    |
 | Lorena             | mujer/20    | estudiante | avanzada         | Alegre, extrovertida pero algo tímida | Aplicación Móvil | B    |
 
-
 ### 4.b Diseño de las pruebas 
 ![Método UX](img/usability-testing.png) 
 -----
-
->>> ¿En qué consisten? ¿Se hará uso del checklist de la P1?
-
-Las pruebas que vamos a realizar son:
+Hemos diseñado varias pruebas para evaluar la usabilidad de ambas páginas, desde cuestionarios previos y posteriores al uso de la página, hasta pruebas que requieren completar una serie de objetivos típicos de cada tipo de local, además de una evaluación de en qué se fijan más los usuarios en la página principal de cada sitio web.
+En resumen, las pruebas han sido:
   1. Cuestionario SUS.
   2. Test de usabilidad de Maze.
   3. Aplicación del método eye-tracking.
@@ -265,34 +261,36 @@ Las pruebas que vamos a realizar son:
 ![Método UX](img/Survey.png) 
 ----
 
-Este método desarrollado por John Brooke en 1986 consiste en 10 preguntas a responder usando una escala de likert de 5 valores el cual es un sistema sencillo y ampliamente usado en la comunidad.
-Para realizar la evaluación primero sumamos las puntuaciones de las preguntas de los números impares y le restamos 5 y luego sumamos las puntuaciones de las preguntas pares y restamos ese total a 25. Finalmente, sumamos ambos resultados y lo multiplicamos por 2.5.
+Este método de evaluación de la usabilidad, desarrollado por John Brooke en 1986, consiste en 10 preguntas a responder usando una escala de likert de 5 valores. Es un sistema sencillo y ampliamente usado en la comunidad.
+Para calcular la puntuación se siguen los siguientes pasos:
+  1. Sumamos las puntuaciones de los enunciados impares y le restamos 5.
+  2. Sumamos las puntuaciones de los enunciados pares y restamos ese total a 25.
+  3. Finalmente, sumamos ambos resultados y lo multiplicamos por 2.5, obteniendo una puntuación de 0 a 100.
 
-| Preguntas                                                                 | A1 | A2 | B1 | B2 |
-|--------------------------------------------------------------------------|----|----|----|----|
-| 1. Creo que me gustaría visitar con frecuencia este website              | 4  | 5  | 2  | 3  |
-| 2. Encontré el website innecesariamente complejo                         | 1  | 1  | 1  | 3  |
-| 3. Pensé que era fácil utilizar este website                             | 5  | 4  | 5  | 4  |
-| 4. Creo que necesitaría del apoyo de un experto para recorrer el website | 1  | 1  | 1  | 1  |
-| 5. Encontré las funciones del website bastante bien integradas           | 4  | 4  | 4  | 3  |
-| 6. Pensé que había demasiada inconsistencia en el website                | 2  | 2  | 1  | 3  |
-| 7. Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 5  | 4  | 5  | 4  |
-| 8. Encontré el website muy grande al recorrerlo                          | 2  | 1  | 2  | 3  |
-| 9. Me sentí muy confiado en el manejo del website                        | 5  | 5  | 5  | 2  |
-| 10. Necesito aprender muchas cosas antes de manejarme en el website      | 1  | 1  | 1  | 1  |
-| **Puntuación preguntas impares:**                                        | 18 | 18 | 16 | 11 |
-| **Puntuación preguntas pares:**                                          | 18 | 19 | 19 | 14 |
-| **Puntuación total:**                                                    | 90 | 92.5 | 87.5 | 62.5 |
+| Preguntas                                                                |  A1  |  A2  |  B1  |  B2  |
+|--------------------------------------------------------------------------|------|------|------|------|
+| 1. Creo que me gustaría visitar con frecuencia este website              |   4  |   5  |   2  |   3  |
+| 2. Encontré el website innecesariamente complejo                         |   1  |   1  |   1  |   2  |
+| 3. Pensé que era fácil utilizar este website                             |   5  |   4  |   5  |   4  |
+| 4. Creo que necesitaría del apoyo de un experto para recorrer el website |   1  |   1  |   1  |   1  |
+| 5. Encontré las funciones del website bastante bien integradas           |   4  |   4  |   4  |   3  |
+| 6. Pensé que había demasiada inconsistencia en el website                |   2  |   2  |   1  |   3  |
+| 7. Imagino que la mayoría de las personas aprenderían muy rápidamente    |      |      |      |      |
+|    a utilizar el website                                                 |   5  |   4  |   5  |   4  |
+| 8. Encontré el website muy grande al recorrerlo                          |   2  |   1  |   2  |   2  |
+| 9. Me sentí muy confiado en el manejo del website                        |   5  |   5  |   5  |   3  |
+| 10. Necesito aprender muchas cosas antes de manejarme en el website      |   1  |   1  |   1  |   1  |
+|                                                                          |      |      |      |      |
+| **Puntuación preguntas impares:**                                        |   18 |   18 |   16 |   12 |
+| **Puntuación preguntas pares:**                                          |   18 |   19 |   19 |   16 |
+| **Puntuación total:**                                                    |   90 | 92.5 | 87.5 |   70 |
 
 
 
 ### 4.d A/B Testing
 ![Método UX](img/ABtesting.png) 
 -----
-
->>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
-
-Hemos desarrollado un test en Maze consistente en varios objetivos a realizar en la práctica, así como algunas preguntas para conocer el contexto de la persona y su percepción de la página tras haber completado los objetivos propuestos.
+Además del cuestionario anterior, hemos desarrollado un test en Maze consistente en varias preguntas para conocer el contexto de la persona en relación al proyecto a evaluar, seguido de una serie de objetivos a realizar en el prototipo en figma, para finalizar con una serie de preguntas sobre su percepción de distintas áreas de la página tras haber completado los objetivos propuestos.
 
 Test de Maze de "El Rincón de Gurb": ![Resultados A](https://app.maze.co/report/El-Rincn-de-Gurb/7d7mb12o0q3/intro)
 Test de Maze de "EcoNecta": ![Resultados B](https://app.maze.co/report/Econecta/4xteq7mbb0y6jo/intro)
@@ -300,25 +298,38 @@ Test de Maze de "EcoNecta": ![Resultados B](https://app.maze.co/report/Econecta/
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
 ----
+La herramienta de Eye Tracking permite representar visualmente aquellos puntos de una página en los que más se fijan los usuarios, lo que permite determinar si los elementos verdaderamente importantes de nuestro proyecto realmente atraen la atención de los usuarios y permite guiarlos a través del uso de nuestra página.
 
->>> Indica cómo se diseña el experimento y se reclutan los usuarios. Explica la herramienta / uso de gazerecorder.com u otra similar. Aplíquese únicamente al caso B.
+Hemos aplicado el experimento tanto al caso A como al caso B y hemos obtenido los siguientes resultados:
 
+CASO A
+Persona 1:
+![experimentoPersona1CasoA](P4/CasoAPersona1.png)  
 
-![experimento](img/experimentoET.png)  
->>> Cambiar esta img por una de vuestro experimento. El recurso deberá estar subido a la carpeta P4/  
+Persona 2:
+![experimentoPersona2CasoA](P4/CasoAPersona2.png)  
 
->>> gazerecorder en versión de pruebas puede estar limitada a 3 usuarios para generar mapa de calor (crédito > 0 para que funcione) 
+CASO B
+Persona 1:
+![experimentoPersona1CasoB](P4/CasoBPersona1.png)  
+
+Persona 2:
+![experimentoPersona2CasoB](P4/CasoBPersona2.png)  
+
 
 
 ### 4.f Usability Report de B
 ![Método UX](img/usability-report.png) 
 -----
+En la puntuación del análisis de usabilidad del cuestionario SUS, el caso B ha recibido como puntuaciones un 87.5 y un 70, lo que indica que en general la página cumple bastante bien los criterios de usabilidad. Analizando las puntuaciones dadas por los usuarios participantes, concluimos que la página es intuitiva y fácil de navegar, pero falla en conseguir atraer a los usuarios hacia el comercio ecológico.
 
->>> Añadir report de usabilidad para práctica B (la de los compañeros) aportando resultados y valoración de cada debilidad de usabilidad. 
->>> Enlazar aqui con el archivo subido a P4/ que indica qué equipo evalua a qué otro equipo.
+En cuanto al análisis del Eye-tracker, los resultados son algo dispares de una persona a otra, pero ambos coinciden en una atención hacia la imagen situada arriba en el centro y, aunque menor, también en las otras imágenes y los botones. Una de las personas si se fijó bastante en el nombre y logo de la página, y ambas se fijaron algo en el menú de navegación inferior.
 
->>> Complementad el Case Study en su Paso 4 con una Valoración personal del equipo sobre esta tarea
+Como valoración personal, coincidimos con los usuarios en que es una página fácil de navegar y usar, con la información de cada sección presentada de forma clara. Como puntos a mejorar, posiblemente hacer un diseño con una estética más moderna y actualizada para atraer más al público hacia el proyecto.
 
+
+### 4.g Conclusión
+Esta práctica nos ha servido para visualizar cómo personas ajenas a una página web interactúan con el sitio de manera distinta a como aquellos que nos dedicamos a desarrollar el proyecto podíamos imaginar en algunos aspectos, permitiéndonos detectar qué aspectos fallan y entender qué es mejorable tanto en nuestro proyecto como en otros, para tener una mejor compresión de cómo se consigue una buena usabilidad en una página para guiar al usuario al tiempo que le provocamos interés por nuestro proyecto.
 
 
 <br>
