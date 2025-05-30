@@ -240,12 +240,12 @@ Básicamente, hemos hecho uso de Design Thinking a través del local de Carlota 
 
 
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | Caso
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Nombre del Usuario | Género/Edad | Ocupación  | Experiencia TIC | Personalidad                          | Plataforma       | Caso |
+|--------------------|-------------|------------|------------------|----------------------------------------|------------------|------|
+| Sofía              | mujer/20    | estudiante | avanzada         | introvertida                           | Aplicación Móvil | A    |
+| Ana                | mujer/22    | estudiante | avanzada         | extrovertida                           | Aplicación Móvil | A    |
+| Iván               | hombre/23   | estudiante | avanzada         | extrovertido                           | Aplicación Móvil | B    |
+| Lorena             | mujer/20    | estudiante | avanzada         | Alegre, extrovertida pero algo tímida | Aplicación Móvil | B    |
 
 
 ### 4.b Diseño de las pruebas 
@@ -264,6 +264,19 @@ Básicamente, hemos hecho uso de Design Thinking a través del local de Carlota 
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 >>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+
+| Preguntas                                                                 | A | A | B | B |
+|--------------------------------------------------------------------------|---|---|---|---|
+| 1. Creo que me gustaría visitar con frecuencia este website              | 4 | 5 | 2 | 3 |
+| 2. Encontré el website innecesariamente complejo                         | 1 | 1 | 1 | 3 |
+| 3. Pensé que era fácil utilizar este website                             | 5 | 4 | 5 | 4 |
+| 4. Creo que necesitaría del apoyo de un experto para recorrer el website | 1 | 1 | 1 | 1 |
+| 5. Encontré las funciones del website bastante bien integradas           | 4 | 4 | 4 | 3 |
+| 6. Pensé que había demasiada inconsistencia en el website                | 2 | 2 | 1 | 3 |
+| 7. Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 5 | 4 | 5 | 4 |
+| 8. Encontré el website muy grande al recorrerlo                          | 2 | 1 | 2 | 3 |
+| 9. Me sentí muy confiado en el manejo del website                        | 5 | 5 | 5 | 2 |
+| 10. Necesito aprender muchas cosas antes de manejarme en el website      | 1 | 1 | 1 | 1 |
 
 
 ### 4.d A/B Testing
