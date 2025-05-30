@@ -302,25 +302,15 @@ La herramienta de Eye Tracking permite representar visualmente aquellos puntos d
 
 Hemos aplicado el experimento tanto al caso A como al caso B y hemos obtenido los siguientes resultados:
 
-CASO A
-Persona 1:
+CASO A:
 ![Método UX](P4/CasoAPersona1.png) 
 
-
-Persona 2:
 ![experimentoPersona2CasoA](P4/CasoAPersona2.png)  
 
 
-
-
-CASO B
-Persona 1:
+CASO B:
 ![experimentoPersona1CasoB](P4/CasoBPersona1.png)  
 
-
-
-
-Persona 2:
 ![experimentoPersona2CasoB](P4/CasoBPersona2.png)  
 
 
@@ -334,9 +324,9 @@ Persona 2:
 
 #### Evaluación de usabilidad del proyecto 
 
-### ( EcoNecta )
+###  EcoNecta
 
-### ( 30 de mayo )
+###  30 de mayo 
 ![PaginaPrincipalEcoNecta](P4/PaginaPrincipalEcoNecta.png)
 
 
