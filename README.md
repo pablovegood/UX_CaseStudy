@@ -235,10 +235,11 @@ Básicamente, hemos hecho uso de Design Thinking a través del local de Carlota 
 ![Método UX](img/usability-testing.png)
 -----
 
->>> Breve descripción del caso asignado (llamado Caso-B) con enlace al repositorio Github
->>> Tabla y asignación de personas ficticias (o reales) a las pruebas. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Mínimo 4 usuarios: asigne 2 al Caso A y 2 al caso B.
+EcoNecta es un proyecto enfocado en conectar a las personas con la naturaleza, lo ecológico y sostenible ya que permite a personas interesadas por el comercio ecológico compartir sus recetas y experiencias con otras personas con intereses similares.
 
+A coninuación el enlace al repositorio de GitHub: ![Repositorio EcoNecta](https://github.com/javiruizz/UX_CaseStudy)
 
+A continuación, mostramos una tabla con las personas seleccionadas para este estudio:
 
 | Nombre del Usuario | Género/Edad | Ocupación  | Experiencia TIC | Personalidad                          | Plataforma       | Caso |
 |--------------------|-------------|------------|------------------|----------------------------------------|------------------|------|
@@ -252,31 +253,37 @@ Básicamente, hemos hecho uso de Design Thinking a través del local de Carlota 
 ![Método UX](img/usability-testing.png) 
 -----
 
->>> Planifique qué pruebas se van a desarrollar. ¿En qué consisten? ¿Se hará uso del checklist de la P1?
+>>> ¿En qué consisten? ¿Se hará uso del checklist de la P1?
 
+Las pruebas que vamos a realizar son:
+  1. Cuestionario SUS.
+  2. Test de usabilidad de Maze.
+  3. Aplicación del método eye-tracking.
 
 
 ### 4.c Cuestionario SUS
 ![Método UX](img/Survey.png) 
 ----
 
->>> Como uno de los test para la prueba A/B testing, usaremos el **Cuestionario SUS** que permite valorar la satisfacción de cada usuario con el diseño utilizado (casos A o B). Para calcular la valoración numérica y la etiqueta linguistica resultante usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx). Previamente conozca en qué consiste la escala SUS y cómo se interpretan sus resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
->>> Adjuntar en la carpeta P4/ el excel resultante y describa aquí la valoración personal de los resultados 
+Este método desarrollado por John Brooke en 1986 consiste en 10 preguntas a responder usando una escala de likert de 5 valores el cual es un sistema sencillo y ampliamente usado en la comunidad.
+Para realizar la evaluación primero sumamos las puntuaciones de las preguntas de los números impares y le restamos 5 y luego sumamos las puntuaciones de las preguntas pares y restamos ese total a 25. Finalmente, sumamos ambos resultados y lo multiplicamos por 2.5.
 
-| Preguntas                                                                 | A | A | B | B |
-|--------------------------------------------------------------------------|---|---|---|---|
-| 1. Creo que me gustaría visitar con frecuencia este website              | 4 | 5 | 2 | 3 |
-| 2. Encontré el website innecesariamente complejo                         | 1 | 1 | 1 | 3 |
-| 3. Pensé que era fácil utilizar este website                             | 5 | 4 | 5 | 4 |
-| 4. Creo que necesitaría del apoyo de un experto para recorrer el website | 1 | 1 | 1 | 1 |
-| 5. Encontré las funciones del website bastante bien integradas           | 4 | 4 | 4 | 3 |
-| 6. Pensé que había demasiada inconsistencia en el website                | 2 | 2 | 1 | 3 |
-| 7. Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 5 | 4 | 5 | 4 |
-| 8. Encontré el website muy grande al recorrerlo                          | 2 | 1 | 2 | 3 |
-| 9. Me sentí muy confiado en el manejo del website                        | 5 | 5 | 5 | 2 |
-| 10. Necesito aprender muchas cosas antes de manejarme en el website      | 1 | 1 | 1 | 1 |
+| Preguntas                                                                 | A1 | A2 | B1 | B2 |
+|--------------------------------------------------------------------------|----|----|----|----|
+| 1. Creo que me gustaría visitar con frecuencia este website              | 4  | 5  | 2  | 3  |
+| 2. Encontré el website innecesariamente complejo                         | 1  | 1  | 1  | 3  |
+| 3. Pensé que era fácil utilizar este website                             | 5  | 4  | 5  | 4  |
+| 4. Creo que necesitaría del apoyo de un experto para recorrer el website | 1  | 1  | 1  | 1  |
+| 5. Encontré las funciones del website bastante bien integradas           | 4  | 4  | 4  | 3  |
+| 6. Pensé que había demasiada inconsistencia en el website                | 2  | 2  | 1  | 3  |
+| 7. Imagino que la mayoría de las personas aprenderían muy rápidamente a utilizar el website | 5  | 4  | 5  | 4  |
+| 8. Encontré el website muy grande al recorrerlo                          | 2  | 1  | 2  | 3  |
+| 9. Me sentí muy confiado en el manejo del website                        | 5  | 5  | 5  | 2  |
+| 10. Necesito aprender muchas cosas antes de manejarme en el website      | 1  | 1  | 1  | 1  |
+| **Puntuación preguntas impares:**                                        | 18 | 18 | 16 | 11 |
+| **Puntuación preguntas pares:**                                          | 18 | 19 | 19 | 14 |
+| **Puntuación total:**                                                    | 90 | 92.5 | 87.5 | 62.5 |
+
 
 
 ### 4.d A/B Testing
@@ -284,6 +291,11 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 -----
 
 >>> Los resultados de un A/B testing con 3 pruebas y 2 casos o alternativas daría como resultado una tabla de 3 filas y 2 columnas, además de un resultado agregado global. Especifique con claridad el resultado: qué caso es más usable, A o B?
+
+Hemos desarrollado un test en Maze consistente en varios objetivos a realizar en la práctica, así como algunas preguntas para conocer el contexto de la persona y su percepción de la página tras haber completado los objetivos propuestos.
+
+Test de Maze de "El Rincón de Gurb": ![Resultados A](https://app.maze.co/report/El-Rincn-de-Gurb/7d7mb12o0q3/intro)
+Test de Maze de "EcoNecta": ![Resultados B](https://app.maze.co/report/Econecta/4xteq7mbb0y6jo/intro)
 
 ### 4.e Aplicación del método Eye Tracking 
 ![Método UX](img/eye-tracking.png)
