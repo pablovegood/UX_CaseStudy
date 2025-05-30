@@ -235,7 +235,7 @@ Básicamente, hemos hecho uso de Design Thinking a través del local de Carlota 
 ![Método UX](img/usability-testing.png)
 -----
 
-El proyecto B de nuestro A/B Testing es "EcoNecta", un proyecto enfocado en conectar a las personas con la naturaleza, lo ecológico y sostenible, que permite las personas interesadas participar de un comercio ecológico, y compartir sus recetas y experiencias con otras personas con intereses similares.
+El proyecto B de nuestro A/B Testing es "EcoNecta", un proyecto enfocado en conectar a las personas con la naturaleza, lo ecológico y sostenible, que permite a las personas interesadas participar de un comercio ecológico, y compartir sus recetas y experiencias con otras personas con intereses similares.
 Repositorio de GitHub: ![Repositorio EcoNecta](https://github.com/javiruizz/UX_CaseStudy)
 
 Las personas seleccionadas para este estudio son las siguientes:
