@@ -390,7 +390,7 @@ En cuanto al análisis del Eye-tracker, los resultados son algo dispares de una 
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
-Esta práctica y el desarrollo y puesta en práctica de las distintas pruebas de usabiliadd nos ha servido para entender cómo personas ajenas a una página web interactúan con el sitio de manera distinta a como muchas veces aquellos que se dedican a desarrollar el proyecto pueden esperar. Esto permite detectar qué aspectos fallan y entender qué es mejorable tanto en nuestro proyecto como en otros, para tener una mejor compresión de cómo se consigue una buena usabilidad en una página para guiar al usuario al tiempo que le provocamos interés por nuestro proyecto.
+Esta práctica y el desarrollo y puesta en práctica de las distintas pruebas de usabilidad nos ha servido para entender cómo personas ajenas a una página web interactúan con el sitio de manera distinta a como muchas veces aquellos que se dedican a desarrollar el proyecto pueden esperar. Esto permite detectar qué aspectos fallan y entender qué es mejorable tanto en nuestro proyecto como en otros, para tener una mejor compresión de cómo se consigue una buena usabilidad en una página, con el objetivo de guiar al usuario al tiempo que le provocamos interés por nuestro proyecto.
 
 
 <br>
