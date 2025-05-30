@@ -304,8 +304,7 @@ Hemos aplicado el experimento tanto al caso A como al caso B y hemos obtenido lo
 
 CASO A
 Persona 1:
-![experimentoPersona1CasoA](P4/CasoAPersona1.png)  
-
+![Método UX](P4/CasoAPersona1.png) 
 
 
 Persona 2:
