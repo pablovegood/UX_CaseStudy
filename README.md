@@ -301,14 +301,10 @@ Test de Maze de "EcoNecta": ![Resultados B](https://app.maze.co/report/Econecta/
 La herramienta de Eye Tracking permite representar visualmente aquellos puntos de una página en los que más se fijan los usuarios, lo que permite determinar si los elementos verdaderamente importantes de nuestro proyecto realmente atraen la atención de los usuarios y permite guiarlos a través del uso de nuestra página.
 
 Hemos aplicado el experimento tanto al caso A como al caso B y hemos obtenido los siguientes resultados:
-
-CASO A:
 ![Método UX](P4/CasoAPersona1.png) 
 
 ![experimentoPersona2CasoA](P4/CasoAPersona2.png)  
 
-
-CASO B:
 ![experimentoPersona1CasoB](P4/CasoBPersona1.png)  
 
 ![experimentoPersona2CasoB](P4/CasoBPersona2.png)  
@@ -338,8 +334,6 @@ CASO B:
 Equipo DIU2.PG^2.
   - Paula García Ipiña
   - Pablo García Alvarado
-Es nuestra primera experiencia realizando un reporte de usabilidad.
-
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 EcoNecta es un proyecto que pretende atraer a las personas interesadas por el comercio ecológico, no solo con el objetivo principal de comprar y vender productos, sino también creando una comunidad de personas interesadas por lo sostenible y lo ecológico, lo cual consiguen mediante la adición de un blog que permite a las personas compartir experiencias, opiniones y/o recetas.
@@ -391,6 +385,7 @@ En cuanto al análisis del Eye-tracker, los resultados son algo dispares de una 
 #### Recomendaciones y propuesta de mejoras: 
 
 * Una interfaz con un diseño y estética más moderna y actualizada, para atraer más el público hacia el proyecto.
+* Conseguir que en la página principal la atención se centre en un elemento más concreto que sea aquello que más se quiera destacar de la página.
 
 
 
