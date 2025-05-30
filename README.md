@@ -393,31 +393,13 @@ En cuanto al análisis del Eye-tracker, los resultados son algo dispares de una 
 Esta práctica y el desarrollo y puesta en práctica de las distintas pruebas de usabilidad nos ha servido para entender cómo personas ajenas a una página web interactúan con el sitio de manera distinta a como muchas veces aquellos que se dedican a desarrollar el proyecto pueden esperar. Esto permite detectar qué aspectos fallan y entender qué es mejorable tanto en nuestro proyecto como en otros, para tener una mejor compresión de cómo se consigue una buena usabilidad en una página, con el objetivo de guiar al usuario al tiempo que le provocamos interés por nuestro proyecto.
 
 
-<br>
 
-## Paso 5. Exportación y Documentación 
-
-
-### 5.a Exportación a HTML/React
-![Método UX](img/usabilityReview.png) 
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-### 5.b Documentación con Storybook
-![Método UX](img/usabilityReview.png)
-----
-
->>> Breve descripción de esta tarea. Las evidencias de este paso quedan subidas a P5/
-
-
-<br>
 
 ## Conclusiones finales & Valoración de las prácticas
 
-
->>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+Como conclusión final del proceso de desarrollo de las prácticas, opinamos que ha sido un proceso enriquecedor partir de ideas y conceptos básicos y poco a poco ir formando una idea de proyecto al completo, incluso con sus puntos fuertes y sus fallos, y sabiendo en retrospectiva cómo podriamos mejorar aquello conseguido, partiendo ya de una pequeña experiencia.
+Como parte negativa, quizá en algunos puntos por falta de tiempo no hemos podido dedicar el tiempo deseado. También algunas partes o algunos recursos nos han resultado algo confusos de usar/desarrollar.
+En general, nos ha permitido formar una idea más completa y estructurada de cómo es un proceso de diseño de interfaces, aprendiendo técnicas, pautas y recursos que luego hemos podido aplicar en otros proyectos (como en asignaturas de desarrollo web o, incluso, en el TFG).
 
 
 
